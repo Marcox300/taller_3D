@@ -5,7 +5,7 @@ taller_3D
 
 poner enlace
 
-# Parte 1: 🖥️ Interfaz de Blender
+# Parte 1: 🖥️ Interfaz y manejo de Blender
 
 Blender es un programa de modelado y creación 3D que permite diseñar objetos, crear escenas, esculpir modelos, generar animaciones y renderizar imágenes.
 
