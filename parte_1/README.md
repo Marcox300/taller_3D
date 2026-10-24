@@ -69,6 +69,15 @@ Duplica un objeto varias veces siguiendo una disposición determinada.
 - Generar patrones y elementos repetitivos.
 - Distribuir objetos alrededor de un círculo mediante un objeto de referencia y los ajustes correspondientes.
 
+### Curve — Curva
+
+Adapta la geometría de un objeto a lo largo de una curva, siguiendo su forma y recorrido.
+
+**Usos habituales:**
+- Adaptar una rueda dentada u otros elementos repetidos a una trayectoria circular.
+- Crear objetos que sigan una curva determinada.
+- Distribuir geometría a lo largo de caminos curvos.
+
 ---
 
 ## 4. Resumen de atajos esenciales
